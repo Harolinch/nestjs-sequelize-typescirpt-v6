@@ -1,0 +1,1 @@
+export const SEQUELIZE_CONNECTION_INSTANCE = 'sequelize_connection_instance';
